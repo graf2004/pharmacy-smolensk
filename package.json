@@ -1,0 +1,16 @@
+{
+  "name": "pharmacy-smolensk",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update-prices": "node scripts/update-prices.mjs",
+    "deploy:gh": "node scripts/deploy-gh-pages.mjs"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
