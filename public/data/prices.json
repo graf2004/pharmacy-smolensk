@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:21:21.493Z",
+  "updatedAt": "2026-09-25T11:26:37.402Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -115,10 +115,9 @@
       "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1832 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
     },
     "bronhomunal10Ru": {
-      "pack": 749,
-      "source": "megapteka.ru",
-      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
-      "title": "Бронхо-мунал капсулы 7 мг 10 шт., цены от 749 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "pack": null,
+      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
+      "source": "error"
     },
     "bronhomunal10By": {
       "pack": 24.73,
@@ -134,13 +133,13 @@
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1812,
+      "regular": 1816,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 931,
+      "regular": 934,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
@@ -152,13 +151,13 @@
     },
     "aprilProbio": {
       "pack": 834,
-      "regular": 1203,
+      "regular": 1196,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1033,
+      "regular": 1037,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
