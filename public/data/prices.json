@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T11:40:51.376Z",
+  "updatedAt": "2026-09-28T13:16:35.099Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -61,10 +61,9 @@
       "title": "Магний хелат GLS maximum капсулы 120 шт. в аптеках Смоленска | Мегаптека"
     },
     "evalar60Ru": {
-      "pack": 1295,
-      "source": "megapteka.ru",
-      "url": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
-      "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1295 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | Ме"
+      "pack": null,
+      "error": "429 https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
+      "source": "error"
     },
     "likomastBy": {
       "pack": 34.99,
@@ -73,7 +72,7 @@
       "ls": 104159
     },
     "baktistatinBy": {
-      "pack": 63.67,
+      "pack": 67.02,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=108629",
       "ls": 108629
@@ -179,8 +178,8 @@
       "name": "Бактистатин №60",
       "ruRub": 1256,
       "ruNote": "Мегаптека Смоленск от 1256",
-      "byn": 63.67,
-      "byNote": "tabletka.by от 63,67",
+      "byn": 67.02,
+      "byNote": "tabletka.by от 67,02",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
       "byUrl": "https://tabletka.by/result/?ls=108629"
     },
@@ -251,11 +250,11 @@
     "aprilUrsosan": 2825,
     "megaUrsosan": 2952,
     "glsMaxRuPack": 932,
-    "evalar60Ru": 1295,
+    "evalar60Ru": null,
     "aprilProbio": 834,
     "aprilBakset": 684,
     "likomastBy": 34.99,
-    "baktistatinBy": 63.67,
+    "baktistatinBy": 67.02,
     "ursosan50By": 53,
     "glsMaxBy": 33.03,
     "bronhomunal30Ru": 1748,
