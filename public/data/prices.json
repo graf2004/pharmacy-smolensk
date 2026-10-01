@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:09:00.502Z",
+  "updatedAt": "2026-10-01T12:42:47.045Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -19,10 +19,10 @@
       "title": "Ликомаст капсулы 30 шт., цены от 841.4 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "baktistatinRu": {
-      "pack": 1256,
+      "pack": 922,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
-      "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1256 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
+      "title": "Бактистатин капсулы 500 мг 60 шт., цены от 922 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегапт"
     },
     "probiologRu": {
       "pack": 912,
@@ -31,16 +31,16 @@
       "title": "ПробиоЛог форте капсулы 30 шт., цены от 912 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
-      "pack": 586,
+      "pack": 569,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
-      "title": "Бак-сет Форте капсулы 20 шт., цены от 586 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
+      "title": "Бак-сет Форте капсулы 20 шт., цены от 569 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
     },
     "ursosan100Ru": {
-      "pack": 1567,
+      "pack": 1555,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-34643",
-      "title": "Урсосан капсулы 250 мг 100 шт., цены от 1567 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
+      "title": "Урсосан капсулы 250 мг 100 шт., цены от 1555 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "ursosan50Ru": {
       "pack": 815,
@@ -55,16 +55,16 @@
       "title": "Урсосан капсулы 250 мг 10 шт., цены от 190 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "glsMaxRu": {
-      "pack": 920,
+      "pack": 944,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
       "title": "Магний хелат GLS maximum капсулы 120 шт. в аптеках Смоленска | Мегаптека"
     },
     "evalar60Ru": {
-      "pack": 1295,
+      "pack": 1219.3,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
-      "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1295 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | Ме"
+      "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1219.3 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | "
     },
     "likomastBy": {
       "pack": 34,
@@ -134,31 +134,31 @@
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1813,
+      "regular": 1804,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 935,
+      "regular": 932,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
     "aprilUrs10": {
-      "pack": 174,
+      "pack": 164,
       "regular": 191,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
     },
     "aprilProbio": {
       "pack": 834,
-      "regular": 1230,
+      "regular": 1234,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1069,
+      "regular": 1097,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -177,8 +177,8 @@
     {
       "id": "baktistatin",
       "name": "Бактистатин №60",
-      "ruRub": 1256,
-      "ruNote": "Мегаптека Смоленск от 1256",
+      "ruRub": 922,
+      "ruNote": "Мегаптека Смоленск от 922",
       "byn": 67.02,
       "byNote": "tabletka.by от 67,02",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
@@ -197,8 +197,8 @@
     {
       "id": "bakset",
       "name": "Бак-Сет Форте 60 (3×№20)",
-      "ruRub": 1758,
-      "ruNote": "Мегаптека от 586×3",
+      "ruRub": 1707,
+      "ruNote": "Мегаптека от 569×3",
       "byn": 83.04,
       "byNote": "tabletka.by от 27,68×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
@@ -207,8 +207,8 @@
     {
       "id": "ursosan",
       "name": "Урсосан ~180 капс. 250 мг",
-      "ruRub": 2825,
-      "ruNote": "Апрель клуб: 1516+787+3×174",
+      "ruRub": 2795,
+      "ruNote": "Апрель клуб: 1516+787+3×164",
       "byn": 212,
       "byNote": "tabletka.by 4×№50 от 53",
       "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
@@ -227,8 +227,8 @@
     {
       "id": "magnesium",
       "name": "Магний хелат (~400 мг элем./день, 2 мес.)",
-      "ruRub": 1840,
-      "ruNote": "Мегаптека GLS Max №120×2 от 920",
+      "ruRub": 1888,
+      "ruNote": "Мегаптека GLS Max №120×2 от 944",
       "byn": 66.06,
       "byNote": "GLS Max №120×2, tabletka.by от 33,03",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
@@ -247,11 +247,11 @@
   ],
   "highlights": {
     "likomastRuPack": 841.4,
-    "baktistatinRu": 1256,
-    "aprilUrsosan": 2825,
-    "megaUrsosan": 2952,
-    "glsMaxRuPack": 920,
-    "evalar60Ru": 1295,
+    "baktistatinRu": 922,
+    "aprilUrsosan": 2795,
+    "megaUrsosan": 2940,
+    "glsMaxRuPack": 944,
+    "evalar60Ru": 1219.3,
     "aprilProbio": 834,
     "aprilBakset": 684,
     "likomastBy": 34,
