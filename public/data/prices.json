@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:02:44.770Z",
+  "updatedAt": "2026-10-09T12:49:20.267Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -19,10 +19,10 @@
       "title": "Ликомаст капсулы 30 шт., цены от 841.4 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "baktistatinRu": {
-      "pack": 1156,
+      "pack": 1193,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
-      "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1156 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
+      "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1193 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
     },
     "probiologRu": {
       "pack": 912,
@@ -61,9 +61,10 @@
       "title": "Магний хелат GLS maximum капсулы 120 шт. в аптеках Смоленска | Мегаптека"
     },
     "evalar60Ru": {
-      "pack": null,
-      "error": "429 https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
-      "source": "error"
+      "pack": 1229.2,
+      "source": "megapteka.ru",
+      "url": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
+      "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1229.2 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | "
     },
     "likomastBy": {
       "pack": 34.99,
@@ -108,14 +109,16 @@
       "ls": 119811
     },
     "bronhomunal30Ru": {
-      "pack": null,
-      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
-      "source": "error"
+      "pack": 1820,
+      "source": "megapteka.ru",
+      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
+      "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1820 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
     },
     "bronhomunal10Ru": {
-      "pack": null,
-      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
-      "source": "error"
+      "pack": 750,
+      "source": "megapteka.ru",
+      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
+      "title": "Бронхо-мунал капсулы 7 мг 10 шт., цены от 750 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "bronhomunal10By": {
       "pack": 22.73,
@@ -124,34 +127,40 @@
       "ls": 1974
     },
     "aprilBronho30": {
-      "pack": null,
-      "error": "503 https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30",
-      "source": "error"
+      "pack": 1748,
+      "regular": 2776,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
     "aprilUrs100": {
-      "pack": null,
-      "error": "503 https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100",
-      "source": "error"
+      "pack": 1516,
+      "regular": 1807,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
-      "pack": null,
-      "error": "503 https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50",
-      "source": "error"
+      "pack": 787,
+      "regular": 934,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
     "aprilUrs10": {
-      "pack": null,
-      "error": "503 https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10",
-      "source": "error"
+      "pack": 174,
+      "regular": 191,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
     },
     "aprilProbio": {
-      "pack": null,
-      "error": "503 https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30",
-      "source": "error"
+      "pack": 834,
+      "regular": 1276,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
     "aprilBakset": {
-      "pack": null,
-      "error": "503 https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20",
-      "source": "error"
+      "pack": 665,
+      "regular": 1125,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
   },
   "compare": [
@@ -168,8 +177,8 @@
     {
       "id": "baktistatin",
       "name": "Бактистатин №60",
-      "ruRub": 1156,
-      "ruNote": "Мегаптека Смоленск от 1156",
+      "ruRub": 1193,
+      "ruNote": "Мегаптека Смоленск от 1193",
       "byn": 67.02,
       "byNote": "tabletka.by от 67,02",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
@@ -178,11 +187,11 @@
     {
       "id": "probiolog",
       "name": "Пробиолог Форте 60 (2×№30)",
-      "ruRub": 1824,
-      "ruNote": "Мегаптека от 912×2",
+      "ruRub": 1668,
+      "ruNote": "Апрель клуб 834×2",
       "byn": 66.26,
       "byNote": "tabletka.by от 33,13×2",
-      "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
+      "ruUrl": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30",
       "byUrl": "https://tabletka.by/result/?ls=107990"
     },
     {
@@ -198,8 +207,8 @@
     {
       "id": "ursosan",
       "name": "Урсосан ~180 капс. 250 мг",
-      "ruRub": 2954,
-      "ruNote": "Мегаптека 100+50+3×10",
+      "ruRub": 2825,
+      "ruNote": "Апрель клуб: 1516+787+3×174",
       "byn": 212,
       "byNote": "tabletka.by 4×№50 от 53",
       "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
@@ -228,8 +237,8 @@
     {
       "id": "bronhomunal",
       "name": "Бронхо-мунал 7 мг №30",
-      "ruRub": null,
-      "ruNote": "—",
+      "ruRub": 1748,
+      "ruNote": "009.рф/Апрель от 1748",
       "byn": 68.19,
       "byNote": "tabletka.by 3×№10 от 22,73 (№30 нет)",
       "ruUrl": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30",
@@ -238,18 +247,18 @@
   ],
   "highlights": {
     "likomastRuPack": 841.4,
-    "baktistatinRu": 1156,
-    "aprilUrsosan": null,
+    "baktistatinRu": 1193,
+    "aprilUrsosan": 2825,
     "megaUrsosan": 2954,
     "glsMaxRuPack": 932,
-    "evalar60Ru": null,
-    "aprilProbio": null,
-    "aprilBakset": null,
+    "evalar60Ru": 1229.2,
+    "aprilProbio": 834,
+    "aprilBakset": 665,
     "likomastBy": 34.99,
     "baktistatinBy": 67.02,
     "ursosan50By": 53,
     "glsMaxBy": 33.03,
-    "bronhomunal30Ru": null,
+    "bronhomunal30Ru": 1748,
     "bronhomunal10By": 22.73
   }
 }
