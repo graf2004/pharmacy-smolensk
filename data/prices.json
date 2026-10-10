@@ -1,0 +1,249 @@
+{
+  "updatedAt": "2026-10-10T12:07:21.649Z",
+  "fx": {
+    "scale": 100,
+    "rate": 3.6095,
+    "date": "2026-09-15",
+    "source": "fallback"
+  },
+  "sources": {
+    "ru": "megapteka.ru (Смоленск), 009.рф Апрель клуб",
+    "by": "tabletka.by",
+    "note": "Apteka.ru наборы — вручную (антибот). Цены «от»."
+  },
+  "raw": {
+    "likomastRu": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/akusherstvo-ginekologiya-43/likomast-kaps-n-43543",
+      "source": "error"
+    },
+    "baktistatinRu": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
+      "source": "error"
+    },
+    "probiologRu": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
+      "source": "error"
+    },
+    "baksetRu": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
+      "source": "error"
+    },
+    "ursosan100Ru": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-34643",
+      "source": "error"
+    },
+    "ursosan50Ru": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-35545",
+      "source": "error"
+    },
+    "ursosan10Ru": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-35546",
+      "source": "error"
+    },
+    "glsMaxRu": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
+      "source": "error"
+    },
+    "evalar60Ru": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
+      "source": "error"
+    },
+    "likomastBy": {
+      "pack": 34.99,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=104159",
+      "ls": 104159
+    },
+    "baktistatinBy": {
+      "pack": 67.02,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=108629",
+      "ls": 108629
+    },
+    "probiologBy": {
+      "pack": 33.13,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=107990",
+      "ls": 107990
+    },
+    "baksetBy": {
+      "pack": 28.52,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=105672",
+      "ls": 105672
+    },
+    "ursosan50By": {
+      "pack": 53,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=30749",
+      "ls": 30749
+    },
+    "ursaklinBy": {
+      "pack": 23.82,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=18217",
+      "ls": 18217
+    },
+    "glsMaxBy": {
+      "pack": 33.03,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=119811",
+      "ls": 119811
+    },
+    "bronhomunal30Ru": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
+      "source": "error"
+    },
+    "bronhomunal10Ru": {
+      "pack": null,
+      "error": "403 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
+      "source": "error"
+    },
+    "bronhomunal10By": {
+      "pack": 22.73,
+      "source": "tabletka.by",
+      "url": "https://tabletka.by/result/?ls=1974",
+      "ls": 1974
+    },
+    "aprilBronho30": {
+      "pack": 1748,
+      "regular": 2776,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
+    },
+    "aprilUrs100": {
+      "pack": 1516,
+      "regular": 1802,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
+    },
+    "aprilUrs50": {
+      "pack": 787,
+      "regular": 931,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
+    },
+    "aprilUrs10": {
+      "pack": 174,
+      "regular": 191,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
+    },
+    "aprilProbio": {
+      "pack": 834,
+      "regular": 1272,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
+    },
+    "aprilBakset": {
+      "pack": 662,
+      "regular": 1135,
+      "source": "009.рф/Апрель",
+      "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
+    }
+  },
+  "compare": [
+    {
+      "id": "likomast",
+      "name": "Ликомаст 60 капс. (2×№30)",
+      "ruRub": null,
+      "ruNote": "Мегаптека",
+      "byn": 69.98,
+      "byNote": "tabletka.by от 34,99×2",
+      "byUrl": "https://tabletka.by/result/?ls=104159"
+    },
+    {
+      "id": "baktistatin",
+      "name": "Бактистатин №60",
+      "ruRub": null,
+      "ruNote": "Мегаптека",
+      "byn": 67.02,
+      "byNote": "tabletka.by от 67,02",
+      "byUrl": "https://tabletka.by/result/?ls=108629"
+    },
+    {
+      "id": "probiolog",
+      "name": "Пробиолог Форте 60 (2×№30)",
+      "ruRub": 1668,
+      "ruNote": "Апрель клуб 834×2",
+      "byn": 66.26,
+      "byNote": "tabletka.by от 33,13×2",
+      "ruUrl": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30",
+      "byUrl": "https://tabletka.by/result/?ls=107990"
+    },
+    {
+      "id": "bakset",
+      "name": "Бак-Сет Форте 60 (3×№20)",
+      "ruRub": null,
+      "ruNote": "Мегаптека",
+      "byn": 85.56,
+      "byNote": "tabletka.by от 28,52×3",
+      "byUrl": "https://tabletka.by/result/?ls=105672"
+    },
+    {
+      "id": "ursosan",
+      "name": "Урсосан ~180 капс. 250 мг",
+      "ruRub": 2825,
+      "ruNote": "Апрель клуб: 1516+787+3×174",
+      "byn": 212,
+      "byNote": "tabletka.by 4×№50 от 53",
+      "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
+      "byUrl": "https://tabletka.by/result/?ls=30749"
+    },
+    {
+      "id": "ursaklin",
+      "name": "Урсосан аналог (дешёвый УДХК)",
+      "ruRub": null,
+      "ruNote": "—",
+      "byn": 71.46,
+      "byNote": "Урсаклин №60×3, tabletka.by от 23,82",
+      "ruUrl": null,
+      "byUrl": "https://tabletka.by/result/?ls=18217"
+    },
+    {
+      "id": "magnesium",
+      "name": "Магний хелат (~400 мг элем./день, 2 мес.)",
+      "ruRub": null,
+      "ruNote": "GLS Max",
+      "byn": 66.06,
+      "byNote": "GLS Max №120×2, tabletka.by от 33,03",
+      "byUrl": "https://tabletka.by/result/?ls=119811"
+    },
+    {
+      "id": "bronhomunal",
+      "name": "Бронхо-мунал 7 мг №30",
+      "ruRub": 1748,
+      "ruNote": "009.рф/Апрель от 1748",
+      "byn": 68.19,
+      "byNote": "tabletka.by 3×№10 от 22,73 (№30 нет)",
+      "ruUrl": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30",
+      "byUrl": "https://tabletka.by/result/?ls=1974"
+    }
+  ],
+  "highlights": {
+    "likomastRuPack": null,
+    "baktistatinRu": null,
+    "aprilUrsosan": 2825,
+    "megaUrsosan": null,
+    "glsMaxRuPack": null,
+    "evalar60Ru": null,
+    "aprilProbio": 834,
+    "aprilBakset": 662,
+    "likomastBy": 34.99,
+    "baktistatinBy": 67.02,
+    "ursosan50By": 53,
+    "glsMaxBy": 33.03,
+    "bronhomunal30Ru": 1748,
+    "bronhomunal10By": 22.73
+  }
+}
