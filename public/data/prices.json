@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:49:20.359Z",
+  "updatedAt": "2026-10-14T11:26:55.232Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -19,10 +19,10 @@
       "title": "Ликомаст капсулы 30 шт., цены от 841.3 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "baktistatinRu": {
-      "pack": 1179,
+      "pack": 1174,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
-      "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1179 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
+      "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1174 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
     },
     "probiologRu": {
       "pack": 912,
@@ -31,10 +31,10 @@
       "title": "ПробиоЛог форте капсулы 30 шт., цены от 912 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
-      "pack": 665,
+      "pack": 659,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
-      "title": "Бак-сет Форте капсулы 20 шт., цены от 665 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
+      "title": "Бак-сет Форте капсулы 20 шт., цены от 659 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
     },
     "ursosan100Ru": {
       "pack": 1569,
@@ -67,7 +67,7 @@
       "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1229.2 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | "
     },
     "likomastBy": {
-      "pack": 34.99,
+      "pack": 35,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=104159",
       "ls": 104159
@@ -157,8 +157,8 @@
       "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
     "aprilBakset": {
-      "pack": 662,
-      "regular": 1122,
+      "pack": 684,
+      "regular": 1112,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -169,16 +169,16 @@
       "name": "Ликомаст 60 капс. (2×№30)",
       "ruRub": 1683,
       "ruNote": "Мегаптека от 841.3×2",
-      "byn": 69.98,
-      "byNote": "tabletka.by от 34,99×2",
+      "byn": 70,
+      "byNote": "tabletka.by от 35×2",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/akusherstvo-ginekologiya-43/likomast-kaps-n-43543",
       "byUrl": "https://tabletka.by/result/?ls=104159"
     },
     {
       "id": "baktistatin",
       "name": "Бактистатин №60",
-      "ruRub": 1179,
-      "ruNote": "Мегаптека Смоленск от 1179",
+      "ruRub": 1174,
+      "ruNote": "Мегаптека Смоленск от 1174",
       "byn": 67.02,
       "byNote": "tabletka.by от 67,02",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/baktistatin-kaps-0-5g-39331",
@@ -197,8 +197,8 @@
     {
       "id": "bakset",
       "name": "Бак-Сет Форте 60 (3×№20)",
-      "ruRub": 1995,
-      "ruNote": "Мегаптека от 665×3",
+      "ruRub": 1977,
+      "ruNote": "Мегаптека от 659×3",
       "byn": 85.56,
       "byNote": "tabletka.by от 28,52×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
@@ -247,14 +247,14 @@
   ],
   "highlights": {
     "likomastRuPack": 841.3,
-    "baktistatinRu": 1179,
+    "baktistatinRu": 1174,
     "aprilUrsosan": 2825,
     "megaUrsosan": 2954,
     "glsMaxRuPack": 932,
     "evalar60Ru": 1229.2,
     "aprilProbio": 834,
-    "aprilBakset": 662,
-    "likomastBy": 34.99,
+    "aprilBakset": 684,
+    "likomastBy": 35,
     "baktistatinBy": 67.02,
     "ursosan50By": 53,
     "glsMaxBy": 33.03,
