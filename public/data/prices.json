@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T10:59:02.157Z",
+  "updatedAt": "2026-10-17T10:20:14.245Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -128,19 +128,19 @@
     },
     "aprilBronho30": {
       "pack": 1748,
-      "regular": 2770,
+      "regular": 2754,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1804,
+      "regular": 1794,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 935,
+      "regular": 931,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
@@ -152,13 +152,13 @@
     },
     "aprilProbio": {
       "pack": 834,
-      "regular": 1312,
+      "regular": 1359,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1082,
+      "regular": 1075,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
