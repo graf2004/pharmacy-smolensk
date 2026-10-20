@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:33:40.176Z",
+  "updatedAt": "2026-10-20T11:08:01.801Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -13,10 +13,10 @@
   },
   "raw": {
     "likomastRu": {
-      "pack": 841.3,
+      "pack": 886,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/akusherstvo-ginekologiya-43/likomast-kaps-n-43543",
-      "title": "Ликомаст капсулы 30 шт., цены от 841.3 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
+      "title": "Ликомаст капсулы 30 шт., цены от 886 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "baktistatinRu": {
       "pack": 1112,
@@ -67,7 +67,7 @@
       "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1217.5 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | "
     },
     "likomastBy": {
-      "pack": 35,
+      "pack": 34,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=104159",
       "ls": 104159
@@ -97,7 +97,7 @@
       "ls": 30749
     },
     "ursaklinBy": {
-      "pack": 23.82,
+      "pack": 23,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=18217",
       "ls": 18217
@@ -109,15 +109,15 @@
       "ls": 119811
     },
     "bronhomunal30Ru": {
-      "pack": 1820,
-      "source": "megapteka.ru",
-      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
-      "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1820 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
+      "pack": null,
+      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
+      "source": "error"
     },
     "bronhomunal10Ru": {
-      "pack": null,
-      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
-      "source": "error"
+      "pack": 729,
+      "source": "megapteka.ru",
+      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
+      "title": "Бронхо-мунал капсулы 7 мг 10 шт., цены от 729 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "bronhomunal10By": {
       "pack": 22.48,
@@ -133,19 +133,19 @@
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1798,
+      "regular": 1808,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 931,
+      "regular": 935,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
     "aprilUrs10": {
-      "pack": 190,
-      "regular": null,
+      "pack": 174,
+      "regular": 191,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
     },
@@ -166,10 +166,10 @@
     {
       "id": "likomast",
       "name": "Ликомаст 60 капс. (2×№30)",
-      "ruRub": 1683,
-      "ruNote": "Мегаптека от 841.3×2",
-      "byn": 70,
-      "byNote": "tabletka.by от 35×2",
+      "ruRub": 1772,
+      "ruNote": "Мегаптека от 886×2",
+      "byn": 68,
+      "byNote": "tabletka.by от 34×2",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/akusherstvo-ginekologiya-43/likomast-kaps-n-43543",
       "byUrl": "https://tabletka.by/result/?ls=104159"
     },
@@ -206,8 +206,8 @@
     {
       "id": "ursosan",
       "name": "Урсосан ~180 капс. 250 мг",
-      "ruRub": 2873,
-      "ruNote": "Апрель клуб: 1516+787+3×190",
+      "ruRub": 2825,
+      "ruNote": "Апрель клуб: 1516+787+3×174",
       "byn": 212,
       "byNote": "tabletka.by 4×№50 от 53",
       "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
@@ -218,8 +218,8 @@
       "name": "Урсосан аналог (дешёвый УДХК)",
       "ruRub": null,
       "ruNote": "—",
-      "byn": 71.46,
-      "byNote": "Урсаклин №60×3, tabletka.by от 23,82",
+      "byn": 69,
+      "byNote": "Урсаклин №60×3, tabletka.by от 23",
       "ruUrl": null,
       "byUrl": "https://tabletka.by/result/?ls=18217"
     },
@@ -245,15 +245,15 @@
     }
   ],
   "highlights": {
-    "likomastRuPack": 841.3,
+    "likomastRuPack": 886,
     "baktistatinRu": 1112,
-    "aprilUrsosan": 2873,
+    "aprilUrsosan": 2825,
     "megaUrsosan": 2954,
     "glsMaxRuPack": 932,
     "evalar60Ru": 1217.5,
     "aprilProbio": 834,
     "aprilBakset": 684,
-    "likomastBy": 35,
+    "likomastBy": 34,
     "baktistatinBy": 67.02,
     "ursosan50By": 53,
     "glsMaxBy": 33.03,
