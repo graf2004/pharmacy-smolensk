@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:14:01.794Z",
+  "updatedAt": "2026-10-24T10:32:49.391Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -25,16 +25,16 @@
       "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1103.8 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мег"
     },
     "probiologRu": {
-      "pack": 906,
+      "pack": 904,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
-      "title": "ПробиоЛог форте капсулы 30 шт., цены от 906 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "title": "ПробиоЛог форте капсулы 30 шт., цены от 904 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
-      "pack": 699,
+      "pack": 710,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
-      "title": "Бак-сет Форте капсулы 20 шт., цены от 699 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
+      "title": "Бак-сет Форте капсулы 20 шт., цены от 710 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
     },
     "ursosan100Ru": {
       "pack": 1569,
@@ -85,7 +85,7 @@
       "ls": 107990
     },
     "baksetBy": {
-      "pack": 20,
+      "pack": 30.39,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=105672",
       "ls": 105672
@@ -128,7 +128,7 @@
     },
     "aprilBronho30": {
       "pack": 1748,
-      "regular": 2883,
+      "regular": 2850,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
@@ -145,22 +145,20 @@
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
     "aprilUrs10": {
-      "pack": 192,
-      "regular": null,
+      "pack": 174,
+      "regular": 191,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
     },
     "aprilProbio": {
-      "pack": 834,
-      "regular": 1320,
-      "source": "009.рф/Апрель",
-      "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
+      "pack": null,
+      "error": "fetch failed",
+      "source": "error"
     },
     "aprilBakset": {
-      "pack": 684,
-      "regular": 1048,
-      "source": "009.рф/Апрель",
-      "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
+      "pack": null,
+      "error": "fetch failed",
+      "source": "error"
     }
   },
   "compare": [
@@ -187,28 +185,28 @@
     {
       "id": "probiolog",
       "name": "Пробиолог Форте 60 (2×№30)",
-      "ruRub": 1668,
-      "ruNote": "Апрель клуб 834×2",
+      "ruRub": 1808,
+      "ruNote": "Мегаптека от 904×2",
       "byn": 66.26,
       "byNote": "tabletka.by от 33,13×2",
-      "ruUrl": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30",
+      "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
       "byUrl": "https://tabletka.by/result/?ls=107990"
     },
     {
       "id": "bakset",
       "name": "Бак-Сет Форте 60 (3×№20)",
-      "ruRub": 2097,
-      "ruNote": "Мегаптека от 699×3",
-      "byn": 60,
-      "byNote": "tabletka.by от 20×3",
+      "ruRub": 2130,
+      "ruNote": "Мегаптека от 710×3",
+      "byn": 91.17,
+      "byNote": "tabletka.by от 30,39×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
       "byUrl": "https://tabletka.by/result/?ls=105672"
     },
     {
       "id": "ursosan",
       "name": "Урсосан ~180 капс. 250 мг",
-      "ruRub": 2879,
-      "ruNote": "Апрель клуб: 1516+787+3×192",
+      "ruRub": 2825,
+      "ruNote": "Апрель клуб: 1516+787+3×174",
       "byn": 212,
       "byNote": "tabletka.by 4×№50 от 53",
       "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
@@ -248,12 +246,12 @@
   "highlights": {
     "likomastRuPack": 841.3,
     "baktistatinRu": 1103.8,
-    "aprilUrsosan": 2879,
+    "aprilUrsosan": 2825,
     "megaUrsosan": 2960,
     "glsMaxRuPack": 959,
     "evalar60Ru": 1174,
-    "aprilProbio": 834,
-    "aprilBakset": 684,
+    "aprilProbio": null,
+    "aprilBakset": null,
     "likomastBy": 35,
     "baktistatinBy": 67.02,
     "ursosan50By": 53,
