@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:58:15.370Z",
+  "updatedAt": "2026-10-26T12:30:48.291Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -103,7 +103,7 @@
       "ls": 18217
     },
     "glsMaxBy": {
-      "pack": 32.35,
+      "pack": 33.03,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=119811",
       "ls": 119811
@@ -115,10 +115,9 @@
       "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1820 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
     },
     "bronhomunal10Ru": {
-      "pack": 744,
-      "source": "megapteka.ru",
-      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
-      "title": "Бронхо-мунал капсулы 7 мг 10 шт., цены от 744 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "pack": null,
+      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
+      "source": "error"
     },
     "bronhomunal10By": {
       "pack": 22.48,
@@ -128,7 +127,7 @@
     },
     "aprilBronho30": {
       "pack": 1748,
-      "regular": 2850,
+      "regular": 2897,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
@@ -229,8 +228,8 @@
       "name": "Магний хелат (~400 мг элем./день, 2 мес.)",
       "ruRub": 1910,
       "ruNote": "Мегаптека GLS Max №120×2 от 955",
-      "byn": 64.7,
-      "byNote": "GLS Max №120×2, tabletka.by от 32,35",
+      "byn": 66.06,
+      "byNote": "GLS Max №120×2, tabletka.by от 33,03",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
       "byUrl": "https://tabletka.by/result/?ls=119811"
     },
@@ -257,7 +256,7 @@
     "likomastBy": 35,
     "baktistatinBy": 67.02,
     "ursosan50By": 53,
-    "glsMaxBy": 32.35,
+    "glsMaxBy": 33.03,
     "bronhomunal30Ru": 1748,
     "bronhomunal10By": 22.48
   }
