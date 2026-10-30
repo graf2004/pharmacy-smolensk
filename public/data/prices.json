@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:31:46.494Z",
+  "updatedAt": "2026-10-30T12:23:25.073Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -25,10 +25,10 @@
       "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1103.8 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мег"
     },
     "probiologRu": {
-      "pack": 900,
+      "pack": 1010,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
-      "title": "ПробиоЛог форте капсулы 30 шт., цены от 900 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "title": "ПробиоЛог форте капсулы 30 шт., цены от 1010 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
       "pack": 699,
@@ -49,10 +49,10 @@
       "title": "Урсосан капсулы 250 мг 50 шт., цены от 815 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные эфф"
     },
     "ursosan10Ru": {
-      "pack": 192,
+      "pack": 190,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-35546",
-      "title": "Урсосан капсулы 250 мг 10 шт., цены от 192 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
+      "title": "Урсосан капсулы 250 мг 10 шт., цены от 190 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "glsMaxRu": {
       "pack": 952,
@@ -85,7 +85,7 @@
       "ls": 107990
     },
     "baksetBy": {
-      "pack": 28.19,
+      "pack": 28.18,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=105672",
       "ls": 105672
@@ -109,9 +109,10 @@
       "ls": 119811
     },
     "bronhomunal30Ru": {
-      "pack": null,
-      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
-      "source": "error"
+      "pack": 1820,
+      "source": "megapteka.ru",
+      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
+      "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1820 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
     },
     "bronhomunal10Ru": {
       "pack": 744,
@@ -120,7 +121,7 @@
       "title": "Бронхо-мунал капсулы 7 мг 10 шт., цены от 744 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "bronhomunal10By": {
-      "pack": 22.48,
+      "pack": 20.23,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=1974",
       "ls": 1974
@@ -133,13 +134,13 @@
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1791,
+      "regular": 1790,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 931,
+      "regular": 928,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
@@ -198,8 +199,8 @@
       "name": "Бак-Сет Форте 60 (3×№20)",
       "ruRub": 2097,
       "ruNote": "Мегаптека от 699×3",
-      "byn": 84.57,
-      "byNote": "tabletka.by от 28,19×3",
+      "byn": 84.54,
+      "byNote": "tabletka.by от 28,18×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
       "byUrl": "https://tabletka.by/result/?ls=105672"
     },
@@ -238,8 +239,8 @@
       "name": "Бронхо-мунал 7 мг №30",
       "ruRub": 1779,
       "ruNote": "009.рф/Апрель от 1779",
-      "byn": 67.44,
-      "byNote": "tabletka.by 3×№10 от 22,48 (№30 нет)",
+      "byn": 60.69,
+      "byNote": "tabletka.by 3×№10 от 20,23 (№30 нет)",
       "ruUrl": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30",
       "byUrl": "https://tabletka.by/result/?ls=1974"
     }
@@ -248,7 +249,7 @@
     "likomastRuPack": 841.1,
     "baktistatinRu": 1103.8,
     "aprilUrsosan": 2825,
-    "megaUrsosan": 2960,
+    "megaUrsosan": 2954,
     "glsMaxRuPack": 952,
     "evalar60Ru": 1174,
     "aprilProbio": 834,
@@ -258,6 +259,6 @@
     "ursosan50By": 53,
     "glsMaxBy": 33.03,
     "bronhomunal30Ru": 1779,
-    "bronhomunal10By": 22.48
+    "bronhomunal10By": 20.23
   }
 }
