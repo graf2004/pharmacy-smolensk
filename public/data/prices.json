@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:53:37.024Z",
+  "updatedAt": "2026-11-01T12:52:51.993Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -49,10 +49,10 @@
       "title": "Урсосан капсулы 250 мг 50 шт., цены от 815 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные эфф"
     },
     "ursosan10Ru": {
-      "pack": 190,
+      "pack": 191.7,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-35546",
-      "title": "Урсосан капсулы 250 мг 10 шт., цены от 190 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
+      "title": "Урсосан капсулы 250 мг 10 шт., цены от 191.7 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "glsMaxRu": {
       "pack": 949,
@@ -61,10 +61,10 @@
       "title": "Магний хелат GLS maximum капсулы 120 шт. в аптеках Смоленска | Мегаптека"
     },
     "evalar60Ru": {
-      "pack": 1174,
+      "pack": 1140,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-tab-3115310",
-      "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1174 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | Ме"
+      "title": "Магний Хелат Эвалар таблетки 60 шт., цены от 1140 ₽, купить в аптеках Смоленска, состав, аналоги, побочные действия | Ме"
     },
     "likomastBy": {
       "pack": 35,
@@ -79,13 +79,13 @@
       "ls": 108629
     },
     "probiologBy": {
-      "pack": 33.13,
+      "pack": 33.74,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=107990",
       "ls": 107990
     },
     "baksetBy": {
-      "pack": 28.18,
+      "pack": 28.11,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=105672",
       "ls": 105672
@@ -103,21 +103,22 @@
       "ls": 18217
     },
     "glsMaxBy": {
-      "pack": 33.03,
+      "pack": 32.35,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=119811",
       "ls": 119811
     },
     "bronhomunal30Ru": {
-      "pack": 1820,
+      "pack": 1808,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33337",
-      "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1820 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
+      "title": "Бронхо-мунал капсулы 7 мг 30 шт., цены от 1808 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные"
     },
     "bronhomunal10Ru": {
-      "pack": null,
-      "error": "429 https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
-      "source": "error"
+      "pack": 744,
+      "source": "megapteka.ru",
+      "url": "https://megapteka.ru/smolensk/catalog/immunomodulyatory-60/bronho-munal-kaps-7mg-33371",
+      "title": "Бронхо-мунал капсулы 7 мг 10 шт., цены от 744 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "bronhomunal10By": {
       "pack": 20.23,
@@ -133,7 +134,7 @@
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1791,
+      "regular": 1793,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
@@ -150,8 +151,8 @@
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
     },
     "aprilProbio": {
-      "pack": 926,
-      "regular": 1497,
+      "pack": 834,
+      "regular": 1320,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
@@ -186,10 +187,10 @@
     {
       "id": "probiolog",
       "name": "Пробиолог Форте 60 (2×№30)",
-      "ruRub": 1852,
-      "ruNote": "Апрель клуб 926×2",
-      "byn": 66.26,
-      "byNote": "tabletka.by от 33,13×2",
+      "ruRub": 1668,
+      "ruNote": "Апрель клуб 834×2",
+      "byn": 67.48,
+      "byNote": "tabletka.by от 33,74×2",
       "ruUrl": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30",
       "byUrl": "https://tabletka.by/result/?ls=107990"
     },
@@ -198,8 +199,8 @@
       "name": "Бак-Сет Форте 60 (3×№20)",
       "ruRub": 2097,
       "ruNote": "Мегаптека от 699×3",
-      "byn": 84.54,
-      "byNote": "tabletka.by от 28,18×3",
+      "byn": 84.33,
+      "byNote": "tabletka.by от 28,11×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
       "byUrl": "https://tabletka.by/result/?ls=105672"
     },
@@ -228,8 +229,8 @@
       "name": "Магний хелат (~400 мг элем./день, 2 мес.)",
       "ruRub": 1898,
       "ruNote": "Мегаптека GLS Max №120×2 от 949",
-      "byn": 66.06,
-      "byNote": "GLS Max №120×2, tabletka.by от 33,03",
+      "byn": 64.7,
+      "byNote": "GLS Max №120×2, tabletka.by от 32,35",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
       "byUrl": "https://tabletka.by/result/?ls=119811"
     },
@@ -248,15 +249,15 @@
     "likomastRuPack": 841.1,
     "baktistatinRu": 1019,
     "aprilUrsosan": 2825,
-    "megaUrsosan": 2954,
+    "megaUrsosan": 2959,
     "glsMaxRuPack": 949,
-    "evalar60Ru": 1174,
-    "aprilProbio": 926,
+    "evalar60Ru": 1140,
+    "aprilProbio": 834,
     "aprilBakset": 684,
     "likomastBy": 35,
     "baktistatinBy": 67.02,
     "ursosan50By": 53,
-    "glsMaxBy": 33.03,
+    "glsMaxBy": 32.35,
     "bronhomunal30Ru": 1779,
     "bronhomunal10By": 20.23
   }
