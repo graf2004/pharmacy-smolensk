@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:05:14.203Z",
+  "updatedAt": "2026-11-03T13:50:14.361Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -31,10 +31,10 @@
       "title": "ПробиоЛог форте капсулы 30 шт., цены от 1008 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
-      "pack": 673,
+      "pack": 620,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
-      "title": "Бак-сет Форте капсулы 20 шт., цены от 673 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
+      "title": "Бак-сет Форте капсулы 20 шт., цены от 620 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные дейс"
     },
     "ursosan100Ru": {
       "pack": 1569,
@@ -49,10 +49,10 @@
       "title": "Урсосан капсулы 250 мг 50 шт., цены от 815 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные эфф"
     },
     "ursosan10Ru": {
-      "pack": 192,
+      "pack": 190,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-35546",
-      "title": "Урсосан капсулы 250 мг 10 шт., цены от 192 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
+      "title": "Урсосан капсулы 250 мг 10 шт., цены от 190 ₽ в аптеках Смоленска, показания, побочные действия, отзывы | Мегаптека"
     },
     "glsMaxRu": {
       "pack": 949,
@@ -85,7 +85,7 @@
       "ls": 107990
     },
     "baksetBy": {
-      "pack": 28.11,
+      "pack": 28.19,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=105672",
       "ls": 105672
@@ -128,7 +128,7 @@
     },
     "aprilBronho30": {
       "pack": 1779,
-      "regular": 2881,
+      "regular": 2124,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
@@ -145,7 +145,7 @@
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
     "aprilUrs10": {
-      "pack": 192,
+      "pack": 190,
       "regular": null,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
@@ -197,18 +197,18 @@
     {
       "id": "bakset",
       "name": "Бак-Сет Форте 60 (3×№20)",
-      "ruRub": 2019,
-      "ruNote": "Мегаптека от 673×3",
-      "byn": 84.33,
-      "byNote": "tabletka.by от 28,11×3",
+      "ruRub": 1860,
+      "ruNote": "Мегаптека от 620×3",
+      "byn": 84.57,
+      "byNote": "tabletka.by от 28,19×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
       "byUrl": "https://tabletka.by/result/?ls=105672"
     },
     {
       "id": "ursosan",
       "name": "Урсосан ~180 капс. 250 мг",
-      "ruRub": 2879,
-      "ruNote": "Апрель клуб: 1516+787+3×192",
+      "ruRub": 2873,
+      "ruNote": "Апрель клуб: 1516+787+3×190",
       "byn": 211.6,
       "byNote": "tabletka.by 4×№50 от 52,9",
       "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
@@ -248,8 +248,8 @@
   "highlights": {
     "likomastRuPack": 841.1,
     "baktistatinRu": 1019,
-    "aprilUrsosan": 2879,
-    "megaUrsosan": 2960,
+    "aprilUrsosan": 2873,
+    "megaUrsosan": 2954,
     "glsMaxRuPack": 949,
     "evalar60Ru": 1140,
     "aprilProbio": 834,
