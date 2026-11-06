@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T14:17:25.441Z",
+  "updatedAt": "2026-11-06T13:56:13.574Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -25,10 +25,10 @@
       "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1019 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
     },
     "probiologRu": {
-      "pack": 1008,
+      "pack": 1006,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
-      "title": "ПробиоЛог форте капсулы 30 шт., цены от 1008 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "title": "ПробиоЛог форте капсулы 30 шт., цены от 1006 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
       "pack": 620,
@@ -134,13 +134,13 @@
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1795,
+      "regular": 1798,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 930,
+      "regular": 931,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
@@ -151,14 +151,14 @@
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n10"
     },
     "aprilProbio": {
-      "pack": 891,
-      "regular": 1440,
+      "pack": 887,
+      "regular": 1434,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30"
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1041,
+      "regular": 1042,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -187,8 +187,8 @@
     {
       "id": "probiolog",
       "name": "Пробиолог Форте 60 (2×№30)",
-      "ruRub": 1782,
-      "ruNote": "Апрель клуб 891×2",
+      "ruRub": 1774,
+      "ruNote": "Апрель клуб 887×2",
       "byn": 67.48,
       "byNote": "tabletka.by от 33,74×2",
       "ruUrl": "https://009.xn--p1ai/smolensk/product/probiolog_forte_kapsuly_227_mg_n30",
@@ -252,7 +252,7 @@
     "megaUrsosan": 2954,
     "glsMaxRuPack": 914,
     "evalar60Ru": 1140,
-    "aprilProbio": 891,
+    "aprilProbio": 887,
     "aprilBakset": 684,
     "likomastBy": 35,
     "baktistatinBy": 67.02,
