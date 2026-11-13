@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:50:34.620Z",
+  "updatedAt": "2026-11-13T14:11:56.700Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -85,7 +85,7 @@
       "ls": 107990
     },
     "baksetBy": {
-      "pack": 28.19,
+      "pack": 28.5,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=105672",
       "ls": 105672
@@ -128,13 +128,13 @@
     },
     "aprilBronho30": {
       "pack": 1779,
-      "regular": 2213,
+      "regular": 2198,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1801,
+      "regular": 1802,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
@@ -158,7 +158,7 @@
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1034,
+      "regular": 1031,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -199,8 +199,8 @@
       "name": "Бак-Сет Форте 60 (3×№20)",
       "ruRub": 1845,
       "ruNote": "Мегаптека от 615×3",
-      "byn": 84.57,
-      "byNote": "tabletka.by от 28,19×3",
+      "byn": 85.5,
+      "byNote": "tabletka.by от 28,5×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
       "byUrl": "https://tabletka.by/result/?ls=105672"
     },
