@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T15:11:44.943Z",
+  "updatedAt": "2026-11-17T15:40:53.168Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -25,10 +25,10 @@
       "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1019 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
     },
     "probiologRu": {
-      "pack": 1000,
+      "pack": 998,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
-      "title": "ПробиоЛог форте капсулы 30 шт., цены от 1000 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "title": "ПробиоЛог форте капсулы 30 шт., цены от 998 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
       "pack": 615,
@@ -91,7 +91,7 @@
       "ls": 105672
     },
     "ursosan50By": {
-      "pack": 52.9,
+      "pack": 52.98,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=30749",
       "ls": 30749
@@ -128,13 +128,13 @@
     },
     "aprilBronho30": {
       "pack": 1779,
-      "regular": 2164,
+      "regular": 2162,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
     "aprilUrs100": {
       "pack": 1516,
-      "regular": 1797,
+      "regular": 1794,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n100"
     },
@@ -158,7 +158,7 @@
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1027,
+      "regular": 1026,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -209,8 +209,8 @@
       "name": "Урсосан ~180 капс. 250 мг",
       "ruRub": 2879,
       "ruNote": "Апрель клуб: 1516+787+3×192",
-      "byn": 211.6,
-      "byNote": "tabletka.by 4×№50 от 52,9",
+      "byn": 211.92,
+      "byNote": "tabletka.by 4×№50 от 52,98",
       "ruUrl": "https://009.xn--p1ai/smolensk/kupit-ursosan",
       "byUrl": "https://tabletka.by/result/?ls=30749"
     },
@@ -256,7 +256,7 @@
     "aprilBakset": 684,
     "likomastBy": 35,
     "baktistatinBy": 67.02,
-    "ursosan50By": 52.9,
+    "ursosan50By": 52.98,
     "glsMaxBy": 33.03,
     "bronhomunal30Ru": 1779,
     "bronhomunal10By": 25.51
