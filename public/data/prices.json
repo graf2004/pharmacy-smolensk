@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:26:36.838Z",
+  "updatedAt": "2026-11-20T15:03:37.139Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -25,10 +25,10 @@
       "title": "Бактистатин капсулы 500 мг 60 шт., цены от 1019 ₽, купить в аптеках Смоленска, состав, отзывы, побочные действия | Мегап"
     },
     "probiologRu": {
-      "pack": 996,
+      "pack": 1010,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/probiolog-forte-kaps-57090",
-      "title": "ПробиоЛог форте капсулы 30 шт., цены от 996 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
+      "title": "ПробиоЛог форте капсулы 30 шт., цены от 1010 ₽ в аптеках Смоленска, показания, побочные действия, аналоги | Мегаптека"
     },
     "baksetRu": {
       "pack": 615,
@@ -127,8 +127,8 @@
       "ls": 1974
     },
     "aprilBronho30": {
-      "pack": 1779,
-      "regular": 2167,
+      "pack": 1792,
+      "regular": 2168,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
@@ -140,7 +140,7 @@
     },
     "aprilUrs50": {
       "pack": 787,
-      "regular": 928,
+      "regular": 927,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/ursosan_kapsuly_250_mg_n50"
     },
@@ -158,7 +158,7 @@
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1019,
+      "regular": 1020,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -237,8 +237,8 @@
     {
       "id": "bronhomunal",
       "name": "Бронхо-мунал 7 мг №30",
-      "ruRub": 1779,
-      "ruNote": "009.рф/Апрель от 1779",
+      "ruRub": 1792,
+      "ruNote": "009.рф/Апрель от 1792",
       "byn": 76.53,
       "byNote": "tabletka.by 3×№10 от 25,51 (№30 нет)",
       "ruUrl": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30",
@@ -258,7 +258,7 @@
     "baktistatinBy": 67.02,
     "ursosan50By": 52.9,
     "glsMaxBy": 33.03,
-    "bronhomunal30Ru": 1779,
+    "bronhomunal30Ru": 1792,
     "bronhomunal10By": 25.51
   }
 }
