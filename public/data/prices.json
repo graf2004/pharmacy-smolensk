@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:24:44.619Z",
+  "updatedAt": "2026-11-22T14:17:38.807Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -49,7 +49,7 @@
       "title": "Урсосан капсулы 250 мг 50 шт., цены от 815 ₽, купить в аптеках Смоленска, инструкция по применению, отзывы, побочные эфф"
     },
     "ursosan10Ru": {
-      "pack": 184.61,
+      "pack": 189,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/zabolevaniya-pecheni-i-56/ursosan-kaps-250mg-35546",
       "title": "Урсосан капсулы 250 мг 10 шт. в аптеках Смоленска | Мегаптека"
@@ -103,7 +103,7 @@
       "ls": 18217
     },
     "glsMaxBy": {
-      "pack": 33.03,
+      "pack": 32.35,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=119811",
       "ls": 119811
@@ -128,7 +128,7 @@
     },
     "aprilBronho30": {
       "pack": 1792,
-      "regular": 2168,
+      "regular": null,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bronho-munal_kapsuly_7_mg_n30"
     },
@@ -207,7 +207,7 @@
     {
       "id": "ursosan",
       "name": "Урсосан ~180 капс. 250 мг",
-      "ruRub": 2938,
+      "ruRub": 2951,
       "ruNote": "Мегаптека 100+50+3×10",
       "byn": 211.6,
       "byNote": "tabletka.by 4×№50 от 52,9",
@@ -229,8 +229,8 @@
       "name": "Магний хелат (~400 мг элем./день, 2 мес.)",
       "ruRub": 1658,
       "ruNote": "Мегаптека GLS Max №120×2 от 829",
-      "byn": 66.06,
-      "byNote": "GLS Max №120×2, tabletka.by от 33,03",
+      "byn": 64.7,
+      "byNote": "GLS Max №120×2, tabletka.by от 32,35",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
       "byUrl": "https://tabletka.by/result/?ls=119811"
     },
@@ -249,7 +249,7 @@
     "likomastRuPack": 841,
     "baktistatinRu": 1019,
     "aprilUrsosan": null,
-    "megaUrsosan": 2938,
+    "megaUrsosan": 2951,
     "glsMaxRuPack": 829,
     "evalar60Ru": 1140,
     "aprilProbio": 887,
@@ -257,7 +257,7 @@
     "likomastBy": 35,
     "baktistatinBy": 67.02,
     "ursosan50By": 52.9,
-    "glsMaxBy": 33.03,
+    "glsMaxBy": 32.35,
     "bronhomunal30Ru": 1792,
     "bronhomunal10By": 25.51
   }
