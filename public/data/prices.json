@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:17:38.807Z",
+  "updatedAt": "2026-11-23T17:39:45.420Z",
   "fx": {
     "scale": 100,
     "rate": 3.6095,
@@ -55,7 +55,7 @@
       "title": "Урсосан капсулы 250 мг 10 шт. в аптеках Смоленска | Мегаптека"
     },
     "glsMaxRu": {
-      "pack": 829,
+      "pack": 840,
       "source": "megapteka.ru",
       "url": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
       "title": "Магний хелат GLS maximum капсулы 120 шт. в аптеках Смоленска | Мегаптека"
@@ -85,7 +85,7 @@
       "ls": 107990
     },
     "baksetBy": {
-      "pack": 28.5,
+      "pack": 29.99,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=105672",
       "ls": 105672
@@ -103,7 +103,7 @@
       "ls": 18217
     },
     "glsMaxBy": {
-      "pack": 32.35,
+      "pack": 33.03,
       "source": "tabletka.by",
       "url": "https://tabletka.by/result/?ls=119811",
       "ls": 119811
@@ -158,7 +158,7 @@
     },
     "aprilBakset": {
       "pack": 684,
-      "regular": 1020,
+      "regular": 1027,
       "source": "009.рф/Апрель",
       "url": "https://009.xn--p1ai/smolensk/product/bak-set_forte_kapsuly_n20"
     }
@@ -199,8 +199,8 @@
       "name": "Бак-Сет Форте 60 (3×№20)",
       "ruRub": 1845,
       "ruNote": "Мегаптека от 615×3",
-      "byn": 85.5,
-      "byNote": "tabletka.by от 28,5×3",
+      "byn": 89.97,
+      "byNote": "tabletka.by от 29,99×3",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/zabolevaniya-zhkt-52/bak-set-forte-kaps-45712",
       "byUrl": "https://tabletka.by/result/?ls=105672"
     },
@@ -227,10 +227,10 @@
     {
       "id": "magnesium",
       "name": "Магний хелат (~400 мг элем./день, 2 мес.)",
-      "ruRub": 1658,
-      "ruNote": "Мегаптека GLS Max №120×2 от 829",
-      "byn": 64.7,
-      "byNote": "GLS Max №120×2, tabletka.by от 32,35",
+      "ruRub": 1680,
+      "ruNote": "Мегаптека GLS Max №120×2 от 840",
+      "byn": 66.06,
+      "byNote": "GLS Max №120×2, tabletka.by от 33,03",
       "ruUrl": "https://megapteka.ru/smolensk/catalog/vitaminy-i-mikroelementy-49/magnij-helat-gls-4789514",
       "byUrl": "https://tabletka.by/result/?ls=119811"
     },
@@ -250,14 +250,14 @@
     "baktistatinRu": 1019,
     "aprilUrsosan": null,
     "megaUrsosan": 2951,
-    "glsMaxRuPack": 829,
+    "glsMaxRuPack": 840,
     "evalar60Ru": 1140,
     "aprilProbio": 887,
     "aprilBakset": 684,
     "likomastBy": 35,
     "baktistatinBy": 67.02,
     "ursosan50By": 52.9,
-    "glsMaxBy": 32.35,
+    "glsMaxBy": 33.03,
     "bronhomunal30Ru": 1792,
     "bronhomunal10By": 25.51
   }
